@@ -1,0 +1,5 @@
+name: balbNewPlayer
+author: Balbucio
+version: 1.0
+main: me.balbucio.newplayer.Main
+description: Mensagens de BemVindo a um novo jogador.
